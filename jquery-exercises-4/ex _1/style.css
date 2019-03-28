@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+    
+}
+#score{
+    text-align: center;
+    color:white;
+}
+.viesdikkeknoppen{
+    color:white;
+    text-align: center;
+    border-radius: 30px;
+    height: 350px;
+    width: 350px;
+    font-size: 4em;
+    margin: auto;
+}
+.container{
+    display: flex;
+}
+
+#paper{
+    background-color: grey;
+}
+#paper:hover{
+    background-color: darkgray;
+}
+#rock{
+    background-color: grey;
+}
+#rock:hover{
+    background-color: darkgray;
+}
+#scissors{
+    background-color: grey;
+}
+#scissors:hover{
+    background-color: darkgray;
+}
+#play{
+    height: 350px;
+    width: 350px;
+    font-size: 4em;
+
+    margin: 100px 500px;
+
+}

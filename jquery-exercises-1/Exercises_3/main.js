@@ -1,3 +1,3 @@
  // Write your solution here
 
- $("#text").font
+ $("#text").css("font-family","Courier")
